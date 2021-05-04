@@ -6,10 +6,10 @@
 ### Backend 
 ![typescript](assets/typescriptlang-icon.png) ![javascript](assets/javascript-icon.png) ![nestjs](assets/nestjs-icon.png) ![nodejs](assets/nodejs-icon.png)
 
-#### Frontend 
+### Frontend 
 ![html](assets/w3_html5-icon.png) ![angular](assets/angular-icon.png) ![jquery](assets/jquery.png) ![bootstrap](assets/getbootstrap-icon.png) ![sass](assets/sass-lang-icon.png) ![css3](assets/css3.png) ![rectjs](assets/reactjs-icon.png)
 
-#### Database 
+### Database 
 ![mysql](assets/mysql-icon.png) ![postgre](assets/postgresql-icon.png) ![mongodb](assets/mongodb-icon.png) ![mssql](assets/mssql.png)
 
 
